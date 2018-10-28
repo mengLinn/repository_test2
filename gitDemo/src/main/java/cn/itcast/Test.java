@@ -6,6 +6,7 @@ public class Test {
         System.out.println("wawa");
         System.out.println("haha");
         System.out.println("lala");
+        System.out.println("dada");
     }
 }
 
